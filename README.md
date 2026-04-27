@@ -27,7 +27,7 @@ Designed and implemented a scalable multi-campus network for SZABIST Karachi con
 - Built scalable enterprise-level architecture
 
 ## 📷 Network Topology
-![Topology](network_topology.png)
+![Topology](Topology Screenshot.png)
 
 ## 🛠️ Tools Used
 - Cisco Packet Tracer
